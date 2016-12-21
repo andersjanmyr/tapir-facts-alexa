@@ -62,7 +62,7 @@ var languageStrings = {
                 'In 1998, a female tapir at the Oklahoma City Zoo bit off a zookeeper’s arm at the bicep. The tapir had a two-month-old calf in her enclosure.',
                 'Scientists believe that tapirs have not changed very much over tens of millions of years.',
                 'A hybrid tapir was reportedly born at the San Francisco Zoo around 1968 – a cross between a Baird’s Tapir and a lowland tapir.',
-                'Tapirs starred in the movie, 2001: A Space Odyssey.'
+                'Tapirs starred in the movie, 2001: A Space Odyssey.',
                 'The camouflage style of the Malayan is called disruptive camouflage.',
                 'All tapirs prefer a tropical climate.',
                 'Tapirs are normally active at dawn and dusk.',
