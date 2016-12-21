@@ -1,6 +1,6 @@
 'use strict';
 var Alexa = require('alexa-sdk');
-var APP_ID = undefined;  // TODO replace with your app ID (OPTIONAL).
+var APP_ID = 'amzn1.ask.skill.b2c15d52-f0ce-495e-ab06-e3f41c7a7bcb';
 
 var languageStrings = {
     "en-US": {
