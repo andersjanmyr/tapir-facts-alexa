@@ -5,6 +5,7 @@ var APP_ID = 'amzn1.ask.skill.b2c15d52-f0ce-495e-ab06-e3f41c7a7bcb';
 var languageStrings = {
     "en-US": {
         "translation": {
+            "SKILL_NAME": "Tapir Facts",
             "FACTS": [
                 'The tapir is related to the horse and the rhinoserous.',
                 'The tapir is a fast and agile runner.',
