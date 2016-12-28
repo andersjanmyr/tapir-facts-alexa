@@ -5,7 +5,7 @@ var APP_ID = 'amzn1.ask.skill.b2c15d52-f0ce-495e-ab06-e3f41c7a7bcb';
 var languageStrings = {
     "en-US": {
         "translation": {
-            "SKILL_NAME": "Tapir Facts",
+            "SKILL_NAME": "Tapir Info",
             "FACTS": [
                 'A group of tapirs is called a "candle."',
                 'A hybrid tapir was reportedly born at the San Francisco Zoo around 1968 – a cross between a Baird’s Tapir and a lowland tapir.',
@@ -65,8 +65,8 @@ var languageStrings = {
                 'There are five kinds of tapirs, Mountain, Brazilian, Baird, Malayan and Kabomani.',
                 'The Mountain Tapir is the smallest of the four different tapir species.'
             ],
-            "GET_FACT_MESSAGE" : "Here's your fact: ",
-            "HELP_MESSAGE" : "You can say tell me a tapir fact, or, you can say exit... What can I help you with?",
+            "GET_FACT_MESSAGE" : "Info: ",
+            "HELP_MESSAGE" : "You can say tell me a fact, or, you can say exit... What can I help you with?",
             "HELP_REPROMPT" : "What can I help you with?",
             "STOP_MESSAGE" : "Goodbye!"
         }
